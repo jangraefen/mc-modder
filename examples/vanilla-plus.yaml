@@ -1,3 +1,4 @@
+# This file is not the final syntax, but just a canvas to brainstorm possible structures for this file.
 installation:
   path: "$APPDATA/.minecraft"
   version: "1.18.2"
