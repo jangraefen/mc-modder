@@ -1,0 +1,10 @@
+installation:
+  path: "$APPDATA/.minecraft"
+  version: "1.18.2"
+  mods:
+    - name: fabric-api
+      version: 0.47.10
+    - name: freecam
+      version: 0.4.7
+    - name: litematica-fabric
+      version: 0.11.2
